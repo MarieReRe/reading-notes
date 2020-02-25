@@ -21,10 +21,10 @@
 
 - Chapter 2 
 6. What is the HTML tag you would use to insesrt JavaScript code?
-7.
+7. What is an array?
 
-
-
+- Chapter 4
+8. True or False: Comparison operators usually return single values or true or false while logical operators allow you to compare multiple comparison operators. 
 
 
 
@@ -36,3 +36,5 @@
 4. False- the last  takes precedence
 5. True
 6. <script>
+7. An array is a special type of variable that stores multiple values.  
+8. True
