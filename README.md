@@ -18,4 +18,23 @@
 - Read 13: Local Storage
 - Read 14a: CSS Transforms, Transitions, and Animations
 - Read 14b: What Google Learned About Teams
+  
+  
+  
+  
+### Markdown Entry Ideas
+- Blog Article (2-3 paragraphs with code sample)
+- Dictionary / Flash Cards
+- Notes in outline form
+- Use an analogy
+- Explain a detail in depth
+- Use WHY, WHAT, HOW structure
+- Tutorial / walk through an example as though you were teaching a 102 student
+- Write a quiz
+- Create a vocabulary/definition list
+- Write a cheat sheet
+- Create a diagram / visualization / cartoon of a topic
+- Anthropomorphize the concepts, and write a conversation between them
+- Build a map of the information
+- Construct a fill-in-the-blank worksheet for the topic
 
